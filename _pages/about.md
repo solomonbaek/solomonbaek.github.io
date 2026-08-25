@@ -7,22 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an MS Thesis Candidate in Electrical and Computer Engineering at the Georgia Institute of Technology in Atlanta. My research centers on the design optimization of computer systems. I am fortunate to be part of the [PSyLab](https://psylab.ece.gatech.edu/).
+Hi! I'm an Ph.D. in Electrical and Computer Engineering at the University of Texas at Austin. My research centers on the design optimization of advanced packaging systems. I am fortunate to be part ofu [UTDA](https://www.cerc.utexas.edu/utda/).
 
 Publications
 ======
 
-[1] Seungmin Woo, __Juyeop Baek__, Pruek Vanna-iampikul, Srujan Penta, Per Viklund, Yang Fan, Bongyoung Yoo and Sung Kyu Lim,  
-"AI-Driven Wire Sizing for Signal Integrity Optimization in 2.5D ICs with Nickel-Iron Interconnects", Proc. Design, Automation and Test in Europe Conf. (DATE), 2026.
-
-[2] Jin Woong Kwak*, __Juyeop Baek*__, Muhannad Bakir, Visvesh Sathe,  
+[1] Jin Woong Kwak*, __Juyeop Baek*__, Muhannad Bakir, Visvesh Sathe,  
 “Modeling and Optimization of 2-stage Power Delivery Systems for High-Performance, Large-Area Packages”, IEEE 76th Electronic Components and Technology Conference (ECTC), 2026. (*Equal Contribution)
+
+[2] Aaron Jezghani, Juyeop Baek, Deepa Phanish, Michael D. Weiner, and Jeffrey Young. 2026. Sustainable On-Demand Computing for High-Performance Computing through Managed Oversubscription. In Proceedings of the 32nd International Conference on Job Scheduling Strategies for Parallel Processing (JSSPP’26).
 
 Education
 ======
 
+**University of Texas at Austin**, Austin, TX  
+*Ph.D. in Electrical and Computer Engineering, 2026–2031 (Expected)*  
+
 **Georgia Institute of Technology**, Atlanta, GA  
-*MS in Electrical and Computer Engineering, 2024–2026 (Expected)*  
+*MS in Electrical and Computer Engineering, 2024–2026*  
 *BS in Electrical Engineering, 2018–2022*
 
 Professional Experience
