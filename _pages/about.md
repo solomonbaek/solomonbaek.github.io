@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an Ph.D. in Electrical and Computer Engineering at the University of Texas at Austin. My research centers on the design optimization of advanced packaging systems. I am fortunate to be part ofu [UTDA](https://www.cerc.utexas.edu/utda/).
+Hi! I'm an Ph.D. in Electrical and Computer Engineering at the University of Texas at Austin. My research centers on the design optimization of advanced packaging systems. I am fortunate to be part of [UTDA](https://www.cerc.utexas.edu/utda/).
 
 Publications
 ======
